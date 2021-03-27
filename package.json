@@ -1,0 +1,35 @@
+{
+  "name": "tutorialbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "anymatch": "^3.1.1",
+    "axios": "^0.21.1",
+    "clone-response": "^1.0.2",
+    "decompress-response": "^3.3.0",
+    "dogehouse.js": "^2.0.2",
+    "dotenv": "^8.2.0",
+    "make-dir": "^3.1.0",
+    "mimic-response": "^1.0.1",
+    "minimist": "^1.2.5",
+    "nodemon": "^2.0.7",
+    "nopt": "^1.0.10",
+    "normalize-path": "^3.0.0",
+    "normalize-url": "^4.5.0",
+    "p-cancelable": "^1.1.0",
+    "picomatch": "^2.2.2",
+    "prepend-http": "^2.0.0",
+    "pupa": "^2.1.1",
+    "readdirp": "^3.5.0",
+    "responselike": "^1.0.2",
+    "semver-diff": "^3.1.1",
+    "signal-exit": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
